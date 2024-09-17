@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/Green.svg</file>
+        <file>images/smile1.png</file>
+        <file>images/smile2.png</file>
+        <file>images/smile3.png</file>
+        <file>images/zvuk-dostavlennogo-soobscheniya.wav</file>
+        <file>images/86549-OHVQCB-344.png</file>
+        <file>images/fouth.png</file>
+        <file>images/second.png</file>
+        <file>images/smile4.png</file>
+        <file>images/smile5.png</file>
+        <file>images/smile6.png</file>
+        <file>images/smile7.png</file>
+        <file>images/smile8.png</file>
+        <file>images/three.png</file>
+        <file>images/Red.svg</file>
+        <file>images/icon_smile.png</file>
+    </qresource>
+</RCC>
